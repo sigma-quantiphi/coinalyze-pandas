@@ -1,6 +1,6 @@
 [project]
 name = "coinalyze-pandas"
-version = "0.1.1"
+version = "0.1.2"
 description = "Pandas Client to Coinalyze REST API"
 authors = [
     {name = "lucas.jamar@spqhi.com"}
