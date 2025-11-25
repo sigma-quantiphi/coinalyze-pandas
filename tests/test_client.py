@@ -3,7 +3,7 @@ import os
 import pytest
 import pandas as pd
 from dotenv import load_dotenv
-from src import CoinalyzePandasClient
+from coinalyze_pandas import CoinalyzePandasClient
 
 
 @pytest.fixture
