@@ -1,6 +1,6 @@
 [project]
 name = "coinalyze-pandas"
-version = "0.1.0"
+version = "0.1.1"
 description = "Pandas Client to Coinalyze REST API"
 authors = [
     {name = "lucas.jamar@spqhi.com"}
@@ -9,9 +9,9 @@ license = {text = "MIT"}
 readme = "README.md"
 requires-python = ">= 3.10"
 dependencies = [
-    "pandas (>=2.3.3,<3.0.0)",
-    "httpx (>=0.28.1,<0.29.0)",
-    "cachetools (>=6.2.2,<7.0.0)"
+    "pandas (>=2.2.0,<3.0.0)",
+    "httpx (>=0.25.0,<1.0.0)",
+    "cachetools (>=6.1.0,<7.0.0)"
 ]
 
 [tool.poetry]
